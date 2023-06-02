@@ -58,7 +58,7 @@ table {
 
 body {
 	background-color: #fff;
-	padding: 0 10px;
+	padding: 2px 10px;
 }
 
 /* Desktop (base style */
@@ -71,6 +71,7 @@ nav {
 	justify-content: space-between;
 	align-items: center;
 	padding: 10px;
+	margin-bottom: 10px;
 }
 
 .menu {
